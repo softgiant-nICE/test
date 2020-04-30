@@ -1,0 +1,517 @@
+68179,Oil & Gas,-1,1
+68180,Basic Materials,-1,1000
+68181,Industrials,-1,2000
+68182,Consumer Goods,-1,3000
+68183,Health Care,-1,4000
+68184,Consumer Services,-1,5000
+68185,Telecommunications,-1,6000
+68186,Utilities,-1,7000
+68187,Financials,-1,8000
+68188,Technology,-1,9000
+68189,Oil & Gas,68179,500
+68190,Chemicals,68180,1300
+68191,Basic Resources,68180,1700
+68192,Construction & Materials,68181,2300
+68193,Industrial Goods & Services,68181,2700
+68194,Automobiles & Parts,68182,3300
+68195,Food & Beverage,68182,3500
+68196,Personal & Household Goods,68182,3700
+68197,Health Care,68183,4500
+68198,Retail,68184,5300
+68199,Media,68184,5500
+68200,Travel & Leisure,68184,5700
+68201,Telecommunications,68185,6500
+68202,Utilities,68186,7500
+68203,Banks,68187,8300
+68204,Insurance,68187,8500
+68205,Real Estate,68187,8600
+68206,Financial Services,68187,8700
+68207,Technology,68188,9500
+82872,Energy,-1,10
+82873,Materials,-1,15
+82874,Industrials,-1,20
+82875,Consumer Discretionary,-1,25
+82876,Consumer Staples,-1,30
+82877,Health Care,-1,35
+82878,Financials,-1,40
+82879,Information Technology,-1,45
+82880,Telecommunication Services,-1,50
+82881,Utilities,-1,55
+82882,Energy,82872,1010
+82883,Materials,82873,1510
+82884,Capital Goods,82874,2010
+82885,Commercial  & Professional Services,82874,2020
+82886,Transportation,82874,2030
+82887,Automobiles & Components,82875,2510
+82888,Consumer Durables & Apparel,82875,2520
+82889,Consumer Services,82875,2530
+82890,Media,82875,2540
+82891,Retailing,82875,2550
+82892,Food & Staples Retailing,82876,3010
+82893,"Food, Beverage & Tobacco",82876,3020
+82894,Household & Personal Products,82876,3030
+82895,Health Care Equipment & Services,82877,3510
+82896,"Pharmaceuticals, Biotechnology & Life Sc",82877,3520
+82897,Banks,82878,4010
+82898,Diversified Financials,82878,4020
+82899,Insurance,82878,4030
+82900,Real Estate,82878,4040
+82901,Software & Services,82879,4510
+82902,Technology Hardware & Equipment,82879,4520
+82903,Telecommunication Services,82880,5010
+82904,Utilities,82881,5510
+82905,Semiconductors & Semiconductor Equipment,82879,4530
+82906,Diversified Consumer Services,82889,253020
+82907,Thrifts & Mortgage Finance,82897,401020
+82908,Consumer Finance,82898,402020
+82909,Capital Markets,82898,402030
+82910,Independent Power Producers & Energy Traders,82904,551050
+82911,Health Care Technology,82895,351030
+82912,Life Sciences Tools & Services,82896,352030
+82913,Real Estate Investment Trusts (REITs),82900,404020
+82914,Real Estate Management & Development,82900,404030
+82915,Professional Services,82885,202020
+82916,Energy Equipment & Services,82882,101010
+82917,"Oil, Gas & Consumable Fuels",82882,101020
+82918,Chemicals,82883,151010
+82919,Construction Materials,82883,151020
+82920,Containers & Packaging,82883,151030
+82921,Metals & Mining,82883,151040
+82922,Paper & Forest Products,82883,151050
+82923,Aerospace & Defense,82884,201010
+82924,Building Products,82884,201020
+82925,Construction & Engineering,82884,201030
+82926,Electrical Equipment,82884,201040
+82927,Industrial Conglomerates,82884,201050
+82928,Machinery,82884,201060
+82929,Trading Companies & Distributors,82884,201070
+82930,Commercial Services & Supplies,82885,202010
+82931,Air Freight & Logistics,82886,203010
+82932,Airlines,82886,203020
+82933,Marine,82886,203030
+82934,Road & Rail,82886,203040
+82935,Transportation Infrastructure,82886,203050
+82936,Auto Components,82887,251010
+82937,Automobiles,82887,251020
+82938,Household Durables,82888,252010
+82939,Leisure Equipment & Products,82888,252020
+82940,"Textiles, Apparel & Luxury Goods",82888,252030
+82941,"Hotels, Restaurants & Leisure",82889,253010
+82942,Media,82890,254010
+82943,Distributors,82891,255010
+82944,Internet & Catalog Retail,82891,255020
+82945,Multiline Retail,82891,255030
+82946,Specialty Retail,82891,255040
+82947,Food & Staples Retailing,82892,301010
+82948,Beverages,82893,302010
+82949,Food Products,82893,302020
+82950,Tobacco,82893,302030
+82951,Household Products,82894,303010
+82952,Personal Products,82894,303020
+82953,Health Care Equipment & Supplies,82895,351010
+82954,Health Care Providers & Services,82895,351020
+82955,Biotechnology,82896,352010
+82956,Pharmaceuticals,82896,352020
+82957,Commercial Banks,82897,401010
+82958,Diversified Financial Services,82898,402010
+82959,Insurance,82899,403010
+82960,Real Estate,82900,404010
+82961,Internet Software & Services,82901,451010
+82962,IT Services,82901,451020
+82963,Software,82901,451030
+82964,Communications Equipment,82902,452010
+82965,Computers & Peripherals,82902,452020
+82966,"Electronic Equipment, Instruments & Components",82902,452030
+82967,Office Electronics,82902,452040
+82968,Semiconductors & Semiconductor Equipment,82905,453010
+82969,Diversified Telecommunication Services,82903,501010
+82970,Wireless Telecommunication Services,82903,501020
+82971,Electric Utilities,82904,551010
+82972,Gas Utilities,82904,551020
+82973,Multi-Utilities,82904,551030
+82974,Water Utilities,82904,551040
+82975,Oil & Gas Drilling,82916,10101010
+82976,Oil & Gas Equipment & Services,82916,10101020
+82977,Integrated Oil & Gas,82917,10102010
+82978,Oil & Gas Exploration & Production,82917,10102020
+82979,Oil & Gas Refining & Marketing,82917,10102030
+82980,Commodity Chemicals,82918,15101010
+82981,Diversified Chemicals,82918,15101020
+82982,Fertilizers & Agricultural Chemicals,82918,15101030
+82983,Industrial Gases,82918,15101040
+82984,Specialty Chemicals,82918,15101050
+82985,Construction Materials,82919,15102010
+82986,Metal & Glass Containers,82920,15103010
+82987,Paper Packaging,82920,15103020
+82988,Aluminum,82921,15104010
+82989,Diversified Metals & Mining,82921,15104020
+82990,Gold,82921,15104030
+82991,Precious Metals & Minerals,82921,15104040
+82992,Steel,82921,15104050
+82993,Forest Products,82922,15105010
+82994,Paper Products,82922,15105020
+82995,Aerospace & Defense,82923,20101010
+82996,Building Products,82924,20102010
+82997,Construction & Engineering,82925,20103010
+82998,Electrical Components & Equipment,82926,20104010
+82999,Heavy Electrical Equipment,82926,20104020
+83000,Industrial Conglomerates,82927,20105010
+83001,Construction & Farm Machinery&Heavy Truc,82928,20106010
+83002,Industrial Machinery,82928,20106020
+83003,Trading Companies & Distributors,82929,20107010
+83004,Commercial Printing,82930,20201010
+83005,Data Processing & Outsourced Services,82962,45102020
+83006,Human Resource & Employment Services,82930,20202010
+83007,Environmental & Facilities Services,82930,20201050
+83008,Office Services & Supplies,82930,20201060
+83009,Air Freight & Logistics,82931,20301010
+83010,Airlines,82932,20302010
+83011,Marine,82933,20303010
+83012,Railroads,82934,20304010
+83013,Trucking,82934,20304020
+83014,Airport Services,82935,20305010
+83015,Highways & Railtracks,82935,20305020
+83016,Marine Ports & Services,82935,20305030
+83017,Auto Parts & Equipment,82936,25101010
+83018,Tires & Rubber,82936,25101020
+83019,Automobile Manufacturers,82937,25102010
+83020,Motorcycle Manufacturers,82937,25102020
+83021,Consumer Electronics,82938,25201010
+83022,Home Furnishings,82938,25201020
+83023,Homebuilding,82938,25201030
+83024,Household Appliances,82938,25201040
+83025,Housewares & Specialties,82938,25201050
+83026,Leisure Products,82939,25202010
+83027,Photographic Products,82939,25202020
+83028,"Apparel, Accessories & Luxury Goods",82940,25203010
+83029,Footwear,82940,25203020
+83030,Textiles,82940,25203030
+83031,Casinos & Gaming,82941,25301010
+83032,"Hotels, Resorts & Cruise Lines",82941,25301020
+83033,Leisure Facilities,82941,25301030
+83034,Restaurants,82941,25301040
+83035,Advertising,82942,25401010
+83036,Broadcasting,82942,25401020
+83037,Movies & Entertainment,82942,25401030
+83038,Publishing,82942,25401040
+83039,Distributors,82943,25501010
+83040,Catalog Retail,82944,25502010
+83041,Internet Retail,82944,25502020
+83042,Department Stores,82945,25503010
+83043,General Merchandise Stores,82945,25503020
+83044,Apparel Retail,82946,25504010
+83045,Computer & Electronics Retail,82946,25504020
+83046,Home Improvement Retail,82946,25504030
+83047,Specialty Stores,82946,25504040
+83048,Drug Retail,82947,30101010
+83049,Food Distributors,82947,30101020
+83050,Food Retail,82947,30101030
+83051,Brewers,82948,30201010
+83052,Distillers & Vintners,82948,30201020
+83053,Soft Drinks,82948,30201030
+83054,Agricultural Products,82949,30202010
+83055,Meat Poultry & Fish - discontinued 02-03,82949,30202020
+83056,Packaged Foods & Meats,82949,30202030
+83057,Tobacco,82950,30203010
+83058,Household Products,82951,30301010
+83059,Personal Products,82952,30302010
+83060,Health Care Equipment,82953,35101010
+83061,Health Care Supplies,82953,35101020
+83062,Health Care Distributors,82954,35102010
+83063,Health Care Facilities,82954,35102020
+83064,Managed Health Care,82954,35102030
+83065,Biotechnology,82955,35201010
+83066,Pharmaceuticals,82956,35202010
+83067,Diversified Banks,82957,40101010
+83068,Consumer Finance,82908,40202010
+83069,Other Diversified Financial Services,82958,40201020
+83070,Multi-Sector Holdings,82958,40201030
+83071,Insurance Brokers,82959,40301010
+83072,Life & Health Insurance,82959,40301020
+83073,Multi-line Insurance,82959,40301030
+83074,Property & Casualty Insurance,82959,40301040
+83075,Reinsurance,82959,40301050
+83076,Real Estate Investment Trusts,82960,40401010
+83077,Real Estate Management & Development,82960,40401020
+83078,Internet Software & Services,82961,45101010
+83079,IT Consulting &  Other Services,82962,45102010
+83080,Application Software,82963,45103010
+83081,Systems Software,82963,45103020
+83082,Communications Equipment,82964,45201020
+83083,Computer Hardware,82965,45202010
+83084,Computer Storage & Peripherals,82965,45202020
+83085,Electronic Equipment & Instruments,82966,45203010
+83086,Office Electronics,82967,45204010
+83087,Semiconductor Equipment,82968,45301010
+83088,Semiconductors,82968,45301020
+83089,Alternative Carriers,82969,50101010
+83090,Integrated Telecommunication Services,82969,50101020
+83091,Wireless Telecommunication Services,82970,50102010
+83092,Electric Utilities,82971,55101010
+83093,Gas Utilities,82972,55102010
+83094,Multi-Utilities,82973,55103010
+83095,Water Utilities,82974,55104010
+83096,Research & Consulting Services,82915,20202020
+83097,Diversified Support Services,82930,20201070
+83098,Security & Alarm Services,82930,20201080
+83099,Cable & Satellite,82942,25401025
+83100,Real Estate Operating Companies,82914,40403020
+83101,Real Estate Development,82914,40403030
+83102,Real Estate Services,82914,40403040
+83103,Electronic Components,82966,45203015
+83104,Health Care Technology,82911,35103010
+83105,Life Sciences Tools & Services,82912,35203010
+83106,Diversified REITs,82913,40402010
+83107,Industrial REITs,82913,40402020
+83108,Mortgage REITs,82913,40402030
+83109,Office REITs,82913,40402040
+83110,Residential REITs,82913,40402050
+83111,Retail REITs,82913,40402060
+83112,Specialized REITs,82913,40402070
+83113,Diversified Real Estate Activies,82914,40403010
+83114,Independent Power Producers & Energy Traders,82910,55105010
+83115,Education Services,82906,25302010
+83116,Specialized Consumer Services,82906,25302020
+83117,Automotive Retail,82946,25504050
+83118,Homefurnishing Retail,82946,25504060
+83119,Hypermarkets & Super Centers,82947,30101040
+83120,Health Care Services,82954,35102015
+83121,Regional Banks,82957,40101015
+83122,Thrifts & Mortgage Finance,82907,40102010
+83123,Specialized Finance,82958,40201040
+83124,Asset Management & Custody Banks,82909,40203010
+83125,Investment Banking & Brokerage,82909,40203020
+83126,Diversified Capital Markets,82909,40203030
+83127,Home Entertainment Software,82963,45103030
+83128,Electronic Manufacturing Services,82966,45203020
+83129,Technology Distributors,82966,45203030
+83130,Oil & Gas storage & Transportation,82917,10102040
+83131,Coal & Consumable Fuels,82917,10102050
+3813323,Real Estate Services,3813524,10427063
+3813324,Discount Stores,3813370,20533079
+3813325,Insurance Brokers,3813509,10321055
+3813326,REIT - Industrial,3813418,10428067
+3813327,Farm & Construction Equipment,3813411,31059116
+3813328,Consumer Defensive,-1,205
+3813329,Coal,3813410,10104005
+3813330,Utilities - Regulated Gas,3813433,20744097
+3813331,Semiconductor Memory,3813365,31169146
+3813332,Lumber & Wood Production,3813476,10105006
+3813333,Industrial Distribution,3813384,31060117
+3813334,Insurance - Life,3813452,10324
+3813335,Diagnostics & Research,3813423,20640091
+3813336,Home Improvement Stores,3813402,10217035
+3813337,Metals & Mining,3813473,10106
+3813338,Infrastructure Operations,3813445,31058115
+3813339,Packaged Foods,3813451,20531077
+3813340,Medical Instruments & Equipment,3813378,20642
+3813341,Healthcare Plans,3813378,20637
+3813342,Industrials,-1,310
+3813343,Insurance - Property & Casualty,3813452,10325
+3813344,Asset Management,3813380,10319042
+3813345,Apparel Manufacturing,3813375,10212026
+3813346,Department Stores,3813402,10217034
+3813347,Beverages - Alcoholic,3813328,20529
+3813348,Software - Infrastructure,3813499,31165134
+3813349,Agriculture,3813473,10101
+3813350,Airlines,3813342,31053
+3813351,Health Information Services,3813499,31165131
+3813352,Computer Hardware,3813449,31167
+3813353,Diversified Industrials,3813505,31061119
+3813354,Oil & Gas Drilling,3813466,30946101
+3813355,Drug Manufacturers - Major,3813447,20636085
+3813356,Publishing,3813374,10215031
+3813357,REIT - Diversified,3813418,10428064
+3813358,Truck Manufacturing,3813342,31063
+3813359,Packaging & Containers,3813475,10213029
+3813360,Textile Manufacturing,3813501,10211025
+3813361,Pay TV,3813498,30845099
+3813362,Biotechnology,3813405,20635084
+3813363,Auto & Truck Dealerships,3813412,10209016
+3813364,Real Estate,-1,104
+3813365,Semiconductors,3813449,31169
+3813366,REIT - Retail,3813418,10428070
+3813367,Computer Distribution,3813352,31167136
+3813368,Food Distribution,3813370,20533081
+3813369,Conglomerates,3813342,31055
+3813370,Retail - Defensive,3813328,20533
+3813371,Healthcare Plans,3813341,20637087
+3813372,Recreational Vehicles,3813412,10209019
+3813373,Oil & Gas - E&P,3813525,30947
+3813374,Publishing,3813468,10215
+3813375,Manufacturing - Apparel & Furniture,3813468,10212
+3813376,Security & Protection Services,3813534,31056112
+3813377,Medical Devices,3813435,20639090
+3813378,Healthcare,-1,206
+3813379,Communication Equipment,3813414,31166135
+3813380,Asset Management,3813452,10319
+3813381,Paper & Paper Products,3813476,10105007
+3813382,Medical Care,3813425,20638089
+3813383,Utilities - Diversified,3813433,20744095
+3813384,Industrial Distribution,3813342,31060
+3813385,Financial Exchanges,3813509,10321054
+3813386,Telecom Services,3813498,30845100
+3813387,Resorts & Casinos,3813495,10218041
+3813388,Beverages - Wineries & Distilleries,3813347,20529072
+3813389,Oil & Gas Equipment & Services,3813490,30951106
+3813390,Pharmaceutical Retailers,3813370,20533080
+3813391,Education & Training Services,3813459,20532078
+3813392,Gambling,3813495,10218038
+3813393,Information Technology Services,3813499,31165132
+3813394,Specialty Retail,3813402,10217037
+3813395,Conglomerates,3813369,31055110
+3813396,Lodging,3813495,10218040
+3813397,Employment Services,3813342,31057
+3813398,Business Equipment,3813505,31061118
+3813399,REIT - Office,3813418,10428068
+3813400,Media - Diversified,3813431,10210023
+3813401,Footwear & Accessories,3813375,10212027
+3813402,Retail - Apparel & Specialty,3813468,10217
+3813403,Semiconductors,3813365,31169147
+3813404,Utilities,-1,207
+3813405,Biotechnology,3813378,20635
+3813406,Chemicals,3813473,10103
+3813407,Utilities - Regulated Water,3813433,20744098
+3813408,Banks - Regional - Europe,3813413,10320048
+3813409,Computer Systems,3813352,31167137
+3813410,Coal,3813473,10104
+3813411,Farm & Construction Machinery,3813342,31059
+3813412,Autos,3813468,10209
+3813413,Banks,3813452,10320
+3813414,Communication Equipment,3813449,31166
+3813415,Insurance - Reinsurance,3813518,10326060
+3813416,Business Services,3813508,31054109
+3813417,Drug Manufacturers - Specialty & Generic,3813447,20636086
+3813418,REITs,3813364,10428
+3813419,Semiconductor Equipment & Materials,3813365,31169145
+3813420,Oil & Gas Refining & Marketing,3813514,30950105
+3813421,Steel,3813512,10107013
+3813422,Beverages - Soft Drinks,3813504,20530073
+3813423,Medical Diagnostics & Research,3813378,20640
+3813424,Long-Term Care Facilities,3813425,20638088
+3813425,Healthcare Providers,3813378,20638
+3813426,Communication Services,-1,308
+3813427,Building Materials,3813480,10102002
+3813428,Capital Markets,3813509,10321053
+3813429,Railroads,3813456,31062125
+3813430,Utilities - Independent Power Producers,3813404,20743
+3813431,Entertainment,3813468,10210
+3813432,Data Storage,3813352,31167140
+3813433,Utilities - Regulated,3813404,20744
+3813434,Credit Services,3813446,10322056
+3813435,Medical Devices,3813378,20639
+3813436,Gold,3813337,10106010
+3813437,Solar,3813365,31169148
+3813438,Aerospace & Defense,3813342,31052
+3813439,Tobacco Products,3813328,20534
+3813440,Insurance,3813452,10323
+3813441,Pollution & Treatment Controls,3813505,31061121
+3813442,Rental & Leasing Services,3813534,31056111
+3813443,Rubber & Plastics,3813412,10209020
+3813444,Oil & Gas E&P,3813373,30947102
+3813445,Engineering & Construction,3813342,31058
+3813446,Credit Services,3813452,10322
+3813447,Drug Manufacturers,3813378,20636
+3813448,Auto Manufacturers,3813412,10209017
+3813449,Technology,-1,311
+3813450,Oil & Gas - Integrated,3813525,30948
+3813451,Consumer Packaged Goods,3813328,20531
+3813452,Financial Services,-1,103
+3813453,Oil & Gas Midstream,3813526,30949104
+3813454,Waste Management,3813342,31064
+3813455,Medical Distribution,3813483,20641092
+3813456,Transportation & Logistics,3813342,31062
+3813457,Household & Personal Products,3813451,20531076
+3813458,Insurance - Specialty,3813518,10326061
+3813459,Education,3813328,20532
+3813460,Utilities - Independent Power Producers,3813430,20743094
+3813461,Personal Services,3813468,10214
+3813462,Contract Manufacturers,3813352,31167139
+3813463,Farm Products,3813451,20531075
+3813464,Electronic Components,3813352,31167141
+3813465,Apparel Stores,3813402,10217033
+3813466,Oil & Gas - Drilling,3813525,30946
+3813467,Copper,3813337,10106009
+3813468,Consumer Cyclical,-1,102
+3813469,Metal Fabrication,3813505,31061120
+3813470,Medical Instruments & Supplies,3813340,20642093
+3813471,Truck Manufacturing,3813358,31063128
+3813472,Banks - Global,3813413,10320043
+3813473,Basic Materials,-1,101
+3813474,Restaurants,3813523,10216032
+3813475,Packaging & Containers,3813468,10213
+3813476,Forest Products,3813473,10105
+3813477,Electronics Distribution,3813352,31167142
+3813478,Residential Construction,3813501,10211024
+3813479,Oil & Gas Integrated,3813450,30948103
+3813480,Building Materials,3813473,10102
+3813481,Home Furnishings & Fixtures,3813375,10212028
+3813482,Software - Application,3813499,31165133
+3813483,Medical Distribution,3813378,20641
+3813484,Tobacco,3813439,20534083
+3813485,Consumer Electronics,3813352,31167138
+3813486,Airlines,3813350,31053108
+3813487,Insurance - Property & Casualty,3813343,10325059
+3813488,Specialty Chemicals,3813406,10103004
+3813489,Agricultural Inputs,3813349,10101001
+3813490,Oil & Gas - Services,3813525,30951
+3813491,Staffing & Outsourcing Services,3813397,31057113
+3813492,Tools & Accessories,3813505,31061122
+3813493,Scientific & Technical Instruments,3813352,31167143
+3813494,Engineering & Construction,3813445,31058114
+3813495,Travel & Leisure,3813468,10218
+3813496,Confectioners,3813451,20531074
+3813497,Marketing Services,3813528,10208015
+3813498,Communication Services,3813426,30845
+3813499,Application Software,3813449,31165
+3813500,Insurance - Diversified,3813440,10323057
+3813501,Homebuilding & Construction,3813468,10211
+3813502,Online Media,3813449,31168
+3813503,Electronic Gaming & Multimedia,3813499,31165130
+3813504,Beverages - Non-Alcoholic,3813328,20530
+3813505,Industrial Products,3813342,31061
+3813506,Shipping & Ports,3813456,31062126
+3813507,Internet Content & Information,3813502,31168144
+3813508,Business Services,3813342,31054
+3813509,Brokers & Exchanges,3813452,10321
+3813510,Insurance - Life,3813334,10324058
+3813511,Grocery Stores,3813370,20533082
+3813512,Steel,3813473,10107
+3813513,Silver,3813337,10106012
+3813514,Oil & Gas - Refining & Marketing,3813525,30950
+3813515,Real Estate - General,3813524,10427062
+3813516,Integrated Shipping & Logistics,3813456,31062124
+3813517,Auto Parts,3813412,10209018
+3813518,Insurance - Specialty,3813452,10326
+3813519,Airports & Air Services,3813456,31062123
+3813520,Beverages - Brewers,3813347,20529071
+3813521,Personal Services,3813461,10214030
+3813522,Specialty Finance,3813413,10320052
+3813523,Restaurants,3813468,10216
+3813524,Real Estate Services,3813364,10427
+3813525,Energy,-1,309
+3813526,Oil & Gas - Midstream,3813525,30949
+3813527,Broadcasting - TV,3813431,10210022
+3813528,Advertising & Marketing Services,3813468,10208
+3813529,Aluminum,3813337,10106008
+3813530,Advertising Agencies,3813528,10208014
+3813531,Luxury Goods,3813402,10217036
+3813532,Chemicals,3813406,10103003
+3813533,Waste Management,3813454,31064129
+3813534,Consulting & Outsourcing,3813342,31056
+3813535,Aerospace & Defense,3813438,31052107
+3813536,Industrial Metals & Minerals,3813337,10106011
+3813537,Utilities - Regulated Electric,3813433,20744096
+3813538,Leisure,3813495,10218039
+3813543,REIT - Healthcare Facilities,3813418,10428065
+3813544,Trucking,3813456,31062127
+3813545,Banks - Regional - Africa,3813413,10320044
+3813546,REIT - Hotel & Motel,3813418,10428066
+3813547,Banks - Regional - Canada,3813413,10320047
+3813548,REIT - Residential,3813418,10428069
+3813549,Banks - Regional - Asia,3813413,10320045
+3813550,Banks - Regional - Latin America,3813413,10320049
+3813551,Banks - Regional - Australia,3813413,10320046
+3813552,Banks - Regional - US,3813413,10320050
+3813553,Broadcasting - Radio,3813431,10210021
+3813554,Savings & Cooperative Banks,3813413,10320051
